@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-Foo
+
 
 const Footer = () => {
   return (
