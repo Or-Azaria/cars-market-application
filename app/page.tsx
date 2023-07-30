@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import { Hero } from '@/components';
-import CustomButton from '../components/CustomButton';
 import SearchBar from '@/components/SearchBar';
 import CustomFilter from '@/components/CustomFilter';
 
